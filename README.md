@@ -29,13 +29,11 @@ This project is a comprehensive analysis of cricket data, focusing on the perfor
 ## How to Use 📂
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cricket-analysis-project.git
-cd cricket-analysis-project
+git clone https://github.com/MuhammadShaafImran/Pakistan_T20_Data_analysis_project_1.git
 ```
 2. Install dependencies:
 ```bash
-pip install -r requirements.txt
-Run the Jupyter Notebooks:
+pip install jupyter python
 ```
 3. Run the Jupyter Notebooks:
   - Open and execute Pakistan_Cricket_Team_T20_Data_Extraction.ipynb.
