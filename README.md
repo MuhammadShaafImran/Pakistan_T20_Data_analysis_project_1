@@ -50,7 +50,8 @@ Run the Jupyter Notebooks:
 2. Pakistan_T20_Data_Cleaning.ipynb:
   - Covers data cleaning, filtering, and preparation for analysis.
 3. Power BI Dashboard:
-  [Link or Screenshot Placeholder] Displays interactive visualizations.
+
+  ![Dashboard preview](https://github.com/MuhammadShaafImran/Pakistan_T20_Data_analysis_project_1/blob/main/Dashboard_batsman.png)
 
 ---
 
@@ -62,3 +63,5 @@ Run the Jupyter Notebooks:
 ---
 
 ## Dashboard Preview 🖼️
+
+![Dashboard Preview](https://github.com/MuhammadShaafImran/Pakistan_T20_Data_analysis_project_1/blob/main/Dashboard_Bowler_preview.png)
